@@ -1,9 +1,9 @@
 <h1 align="left">Hello there, I'm Varun!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunkaarthik&label=Profile%20views&color=0e75b6&style=flat" alt="varunkaarthik" /> </p>
 
-- 🔭 I’m currently working on [a CAD data extraction framework using Open Cascade](https://github.com/tpaviot/pythonocc-core)
+- 🔭 I’m currently working on a CAD data extraction framework using[ Open Cascade](https://github.com/tpaviot/pythonocc-core)
 
-- 💬 Ask me about **filmmaking**
+- 💬 Ask me about **filmmaking** 📽
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
